@@ -1,4 +1,4 @@
-package graph_twoPointer;
+package graph_basic;
 
 import java.util.*;
 import java.io.*;

@@ -1,4 +1,4 @@
-package graph_twoPointer;
+package graph_basic;
 
 import java.io.BufferedReader;
 import java.io.IOException;
