@@ -1,4 +1,4 @@
-package stack_queue_deque;
+package week1_stack_queue_deque;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
